@@ -1,5 +1,5 @@
 python-jenkins== 0.4.15
-requests==2.18.6
+requests==2.20.0
 click==6.7
 PyYAML==3.12
 Jinja==2.10
