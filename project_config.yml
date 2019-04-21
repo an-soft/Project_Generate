@@ -1,0 +1,14 @@
+name: an_soft
+github_url: https://github.com/
+projects:
+  name: MyTest_project
+  github:
+    group: an_soft
+    default_branch: dev
+  envs:
+    develop:
+    - name: dev
+    release:
+    - name: release
+    master:
+    - name: master
