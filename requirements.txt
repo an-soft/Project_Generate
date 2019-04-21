@@ -1,7 +1,7 @@
 python-jenkins== 0.4.15
 requests==2.20.0
 click==6.7
-PyYAML==3.12
+PyYAML==4.2b2
 Jinja==2.10
 PyGithub==1.4.36
 yamale==1.9.0
